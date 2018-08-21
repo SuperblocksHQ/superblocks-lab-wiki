@@ -1,4 +1,4 @@
-This page describes how we track issues in the `vscode` repository.
+This page describes how we track issues in the `studio` repository.
 
 ## Popular queries
 
@@ -66,8 +66,3 @@ Follow the these rules:
 
 ## Duplicates
 Duplicate bugs are closed with a comment `duplicates #issue`. Please try to reference an earlier issue **unless** a later issue is more appropriate (has more context, better scenarios, repro steps, etc.).
-
-
-## Consistent labels across vscode repositories
-
-Visual Studio Code consists of multiple repositories and we should use consistent work flows and labels across all our repositories.
