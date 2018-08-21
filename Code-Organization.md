@@ -26,6 +26,6 @@ Redux related logic is divided in the following folders:
 # CSS Styling (LESS)
 We are using [Less](http://lesscss.org/) for all of our component's styling. They are compiled into CSS in build time, so be aware that when making changes to the styles included in a component, it will trigger an entire reload of the application itself. 
 
-**NOTE:** Make sure when you are creating a new component that the style file lives right next to the component's javascript implementation.
+**NOTE:** Make sure when you are creating a new component, the style file is placed right next to the component's javascript implementation following the convention name of style.less.
 
 
