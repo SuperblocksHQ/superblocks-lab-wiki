@@ -10,7 +10,7 @@
 * [[Submitting Bugs and Suggestions]]
 * [[Feedback Channels]]
 * [[Code Organization]]
-* [[Code License Agreement]]
+* [[Code License]]
 
 **Documentation & Help**
 * [Superblocks Help Center](https://help.superblocks.com/)
