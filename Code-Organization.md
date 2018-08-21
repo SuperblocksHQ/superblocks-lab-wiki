@@ -12,10 +12,10 @@ At this moment, the application is in a small enough stage in which allow us to 
 We decided to start using [Redux](https://redux.js.org/) to handle state across different components and write code which can grow in size and it is easy to test. 
 
 Redux related logic is divided in the following folders:
- - actions: As the folder suggests, here we will include all the action functions required to be dispatch into our redux reducers. 
- - reducers: Our reducers will specify how the application's state changes in response to actions sent to the store. Remember that actions only describe what happened, but don't describe how the application's state changes.
- - selectors: Constant function which compute derived data from the state, allowing Redux to store the minimal possible state.
- - store: Finally the **Store** is the object that bring actions and reducers together. The store has the following responsibilities:
+ - **actions**: As the folder suggests, here we will include all the action functions required to be dispatch into our redux reducers. 
+ - **reducers**: Our reducers will specify how the application's state changes in response to actions sent to the store. Remember that actions only describe what happened, but don't describe how the application's state changes.
+ - **selectors**: Constant function which computes derived data from the state, allowing Redux to store the minimal possible state.
+ - **store**: Object that bring `actions` and `reducers` together. The store has the following responsibilities:
     - Holds application state
     - Allows access to state via getState()
     - Allows state to be updated via dispatch(action)
