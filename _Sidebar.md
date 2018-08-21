@@ -3,7 +3,7 @@
 * [[Development Process]]
 * [[Issue Tracking]]
 * [[Release Process]]
-* [[Running the Endgame]]
+* [[Its the final countdown! Nanana nana nana]]
 * [[Related Projects]]
 
 **Contributing**
