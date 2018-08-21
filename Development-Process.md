@@ -15,7 +15,7 @@ Before each iteration, we will prioritize features to implement and bugs to fix 
 - [ ] Release notes updated
 
 ## Inside an Iteration
-We work in bi-weekly segments:
+We work in 3 weeks segments:
 - **Week 1**: Work according to the plan 
 - **Week 2**: Work according to the plan
 - **Final Week**: The final countdown
