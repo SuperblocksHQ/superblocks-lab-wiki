@@ -3,7 +3,7 @@ At this moment, the application is in a small enough stage in which allow us to 
 
 * Folder by layer: Each folder contains items that usually are not closely related to each other. This results in folders with low cohesion and low modularity, with high coupling between packages. As a result, editing a feature involves editing files across different packages. In addition, deleting a feature can almost never be performed in a single operation.
 
-![Project folder structure](https://github.com/SuperblocksHQ/studio-wiki/blob/master/resources/images/folder-structure.png)
+![Project folder structure](https://github.com/SuperblocksHQ/studio-wiki/blob/master/images/folder-structure.png)
 
 **Note** This is not written in stone and as the project progresses and grows in complexity, we might revise this decision and start organising the code in a different way. 
 
