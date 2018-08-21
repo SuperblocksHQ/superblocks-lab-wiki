@@ -1,1 +1,1 @@
-TODO
+We are in the midst of prioritise the backlog of features for the next 6 months and will update this section as soon as possible.
