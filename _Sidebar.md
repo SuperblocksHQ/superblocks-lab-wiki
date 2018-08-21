@@ -4,7 +4,6 @@
 * [[Issue Tracking]]
 * [[Release Process]]
 * [[Its the final countdown! Nanana nana nana]]
-* [[Related Projects]]
 
 **Contributing**
 * [[How to Contribute]]
