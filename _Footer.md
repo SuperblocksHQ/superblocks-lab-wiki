@@ -1,3 +1,3 @@
 ### Want to contribute to this Wiki?
 
-[Fork it and send a pull request.](https://github.com/SuperblocksHQ/studio-wiki)
+[Fork it and send a pull request.](https://github.com/SuperblocksHQ/superblocks-lab-wiki)

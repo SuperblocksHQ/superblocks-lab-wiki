@@ -4,7 +4,7 @@ The team has a 6 months high level [[Roadmap]] which defines high-level themes a
 ## Iterations
 We will work in 3 weeks iterations on the items on the roadmap. All the work is organized by milestones, which subsequently will be broken down into user stories and tasks. 
 
-At the end of each iteration we want to have a version of Studio that can be used by the Superblocks community. The work planned during an iteration is captured in the iteration plan (see [[Iteration Plans]]). The feature highlights of each iteration are highlighted in the release notes.
+At the end of each iteration we want to have a version of Superblocks Lab that can be used by the Superblocks community. The work planned during an iteration is captured in the iteration plan (see [[Iteration Plans]]). The feature highlights of each iteration are highlighted in the release notes.
 
 ## Planning
 

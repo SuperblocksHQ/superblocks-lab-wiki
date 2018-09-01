@@ -1,8 +1,8 @@
-The Superblocks Studio project tracks issues and feature requests using the [GitHub issue tracker](https://github.com/SuperblocksHQ/studio/issues) for the `studio` repository.
+The Superblocks Lab project tracks issues and feature requests using the [GitHub issue tracker](https://github.com/SuperblocksHQ/superblocks-lab/issues) for the `superblocks-lab` repository.
 
 
 ### Before Submitting an Issue
-First, please do a search in [open issues](https://github.com/SuperblocksHQ/studio/issues) to see if the issue or feature request has already been filed. Use this [query](https://github.com/SuperblocksHQ/studio/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc+) to search for the most popular feature requests.
+First, please do a search in [open issues](https://github.com/SuperblocksHQ/superblocks-lab/issues) to see if the issue or feature request has already been filed. Use this [query](https://github.com/SuperblocksHQ/superblocks-lab/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc+) to search for the most popular feature requests.
 
 If you find your issue already exists, make relevant comments and add your [reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments). Use a reaction in place of a "+1" comment.
 
@@ -10,7 +10,7 @@ If you find your issue already exists, make relevant comments and add your [reac
 
 👎 - downvote
 
-The Superblocks Studio project is distributed across multiple repositories, try to file the issue against the correct repository [Related Projects](https://github.com/SuperblocksHQ/studio/wiki/Related-Projects).
+The Superblocks Lab project is distributed across multiple repositories, try to file the issue against the correct repository [Related Projects](https://github.com/SuperblocksHQ/superblocks-lab/wiki/Related-Projects).
 
 If your issue is a question then please ask the question on [Stack Overflow](https://stackoverflow.com/questions/tagged/superblocks) using the tag `superblocks`.
 
@@ -27,7 +27,7 @@ The more information you can provide, the more likely someone will be successful
 
 Please include the following with each issue.
 
-* Version of Superblocks Studio
+* Version of Superblocks Lab
 * Browser being used.
 * Reproducible steps (1... 2... 3...) and what you expected versus what you actually saw.
 * Images, animations, or a link to a video. Note that images and animations illustrate repro-steps but *do not* replace them.
@@ -48,4 +48,4 @@ Finally, this is our [issue tracking](https://github.com/Microsoft/vscode/wiki/I
 
 ## Contributing Fixes
 If you are interested in fixing issues and contributing directly to the code base,
-please see the document [How to Contribute](https://github.com/SuperblocksHQ/studio/wiki/How-to-Contribute).
+please see the document [How to Contribute](https://github.com/SuperblocksHQ/superblocks-lab/wiki/How-to-Contribute).

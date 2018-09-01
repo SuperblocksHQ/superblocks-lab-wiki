@@ -1,9 +1,9 @@
 As a development team we want to be present on many channels (github issues, telegram, twitter, stack overflow). We want to be responsive and at the same time be effective, for example, we want to avoid having to provide the same answer on different channels. This page describes how the development team intends to use and be active on the different channels.
 
 ## Github issues
-[Github issues](https://github.com/SuperblocksHQ/studio/issues) should be used for bugs and feature requests. How to submit good bugs and feature requests is described in [[How to Contribute]] and how we track issues is described in [[Issue Tracking]].
+[Github issues](https://github.com/SuperblocksHQ/superblocks-lab/issues) should be used for bugs and feature requests. How to submit good bugs and feature requests is described in [[How to Contribute]] and how we track issues is described in [[Issue Tracking]].
 
-Notice, we don't want to use Github Issues for general 'how-to' questions about Studio. We will therefore redirect general 'how-to' questions to Stack Overflow.
+Notice, we don't want to use Github Issues for general 'how-to' questions about Superblocks Lab. We will therefore redirect general 'how-to' questions to Stack Overflow.
 
 ## Stack overflow
 [Stack overflow](https://stackoverflow.com/questions/tagged/superblocks) is the best place for getting high quality answers. Many Superblocks community members are already on Stack Overflow and provide great answers to 'how-to' questions. A development team member tracks stack overflow for questions without an answer and jumps in as needed.

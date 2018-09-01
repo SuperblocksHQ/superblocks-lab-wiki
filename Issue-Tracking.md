@@ -1,9 +1,9 @@
-This page describes how we track issues in the `studio` repository.
+This page describes how we track issues in the `superblocks-lab` repository.
 
 ## Popular queries
 
-- [Inbox tracking](https://github.com/SuperblocksHQ/studio/issues?utf8=%E2%9C%93&q=is%3Aopen+no%3Aassignee+-label%3Afeature-request+-label%3Aplan-item+)
-- [Verification Needed](https://github.com/SuperblocksHQ/studio/labels/verification-needed)
+- [Inbox tracking](https://github.com/SuperblocksHQ/superblocks-lab/issues?utf8=%E2%9C%93&q=is%3Aopen+no%3Aassignee+-label%3Afeature-request+-label%3Aplan-item+)
+- [Verification Needed](https://github.com/SuperblocksHQ/superblocks-lab/labels/verification-needed)
 
 
 ## Inbox tracking and Issue triage
@@ -11,7 +11,7 @@ New issues or pull requests submitted by the community are checked by a team mem
 
 ### Inbox Tracking
 
-The [Inbox query](https://github.com/SuperblocksHQ/studio/issues?utf8=%E2%9C%93&q=is%3Aopen+no%3Aassignee+-label%3Afeature-request+-label%3Aplan-item+) contains all the
+The [Inbox query](https://github.com/SuperblocksHQ/superblocks-lab/issues?utf8=%E2%9C%93&q=is%3Aopen+no%3Aassignee+-label%3Afeature-request+-label%3Aplan-item+) contains all the
 - **open issues or pull requests** that
 - are **not feature requests** nor **test plan items** nor **plan items** nor **extension candidates** and
 - have **no owner assignment**.
