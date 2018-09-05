@@ -1,6 +1,6 @@
 
 # Welcome #
-Welcome to the Code Wiki. These pages are primarily intended for those who wish to contribute to the Code project by submitting bug reports, suggesting new features, building extensions, commenting on new ideas, or even by submitting pull requests.
+Welcome to the Superblocks Lab Wiki. These pages are primarily intended for those who wish to contribute to the Superblocks Lab project by submitting bug reports, suggesting new features, building extensions, commenting on new ideas, or even by submitting pull requests.
 
 Please refer to the sidebar (on the right) for details on Project Management, Contributing to Code, and Documentation.
 
