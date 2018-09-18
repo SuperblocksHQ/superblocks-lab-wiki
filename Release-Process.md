@@ -3,7 +3,7 @@ This page describes how we use branches and tags with every new release.
 Considering all commits added to `master` branch are submitted via pull requests and properly reviewed, the `master` branch is expected to always be working.  
 `master` can also be referred to as the _current_ version. The _latest_ stable version is the latest version listed in the [Releases](https://github.com/SuperblocksHQ/superblocks-lab/releases) section in _GitHub_ (also accessed via `git tag` command).
 
-**Versioning rules**
+## Versioning rules
 ```
 <MAJOR>.<MINOR>.<PATCH>
 X.Y.Z
@@ -14,7 +14,7 @@ X.Y.Z
 * Major (X): marks a big changeset when incompatible modifications or additions occur
 
 
-**Simplified method (currently in use)**
+## Simplified method (currently in use)
 
 1. Bump version in `master` branch according to versioning rules.
 `./bump_version.sh "X.Y.Z"`
@@ -32,7 +32,7 @@ git push origin X.Y.Z
 5. New bugs and features are resolved on the next release
 
 
-**Release branches (for later reference)**
+## Release branches (for later reference)
 
 1. During `the final countdown`, a release branch is created: `release/1.10`.
 2. Superblocks Lab is built from the `release/1.10` branch and released into https://lab-beta.superblocks.com
