@@ -17,7 +17,9 @@ X.Y.Z
 ## Simplified method (currently in use)
 
 1. Bump version in `master` branch according to versioning rules.
-`./bump_version.sh "X.Y.Z"`
+```
+./bump_version.sh "X.Y.Z"
+```
 
 2. Tag the `master` branch according to versioning rules.
 ```
